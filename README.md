@@ -1,6 +1,6 @@
 # Single Strut Freeride Kite Ventus-S
 
-![Kite Ventus](https://github.com/karsteng/Ventus-S/blob/master/Ventus_S_perspective.png)
+![Kite Ventus](https://github.com/wingworks/Ventus-S/blob/master/Ventus_S_perspective.png)
 
 
 The single strut tube kite Ventus in size S (8sqm) is a modern freeride kite. Easy to relaunch, suitable for beginners and experts.  
@@ -8,7 +8,7 @@ For more details and pics take a look at the ventus website: [Ventus-S](http://w
 
 ## Getting Started
 
-You can find the release 1.0 of the Ventus as Release Ventus-S_v1.0.zip in the [release section](https://github.com/karsteng/Ventus-S/releases).
+You can find the release 1.0 of the Ventus as Release Ventus-S_v1.0.zip in the [release section](https://github.com/wingworks/Ventus-S/releases).
 
 The release contains the following files:
 * Kite design parameters (Ventus_S.kite)
