@@ -155,18 +155,18 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
 
 ## Seam allowances (mm) ##
   Sail:
-    sides:                 4500.0
-    -> le:                 10000
-    te:                    10000
+    sides:                 4.5
+    -> le:                 10.0
+    te:                    10.0
   Leading Edge:
-    sides:                 7000
-    end:                   15000
-    closing seam:          16000
+    sides:                 7.0
+    end:                   15.0
+    closing seam:          16.0
   Struts:
-    sides:                 7000
-    end:                   15000
-    -> le:                 2000
-    closing seam:          16000
+    sides:                 7.0
+    end:                   15.0
+    -> le:                 2.0
+    closing seam:          16.0
 
 ## Segment details ##
 
@@ -198,6 +198,13 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Cloth:                 1.35sqm
     CG lever Z:            805.45mm
     Weight:                81.01g
+
+    Sail panels:
+      UV-Segment-0.sail.panel_0
+        Panel Index:                 0
+        length:                      0.00mm
+        Ballooning:                  0
+        Ballooning delta:            0.00mm
  +Profile
     Name:                      Segment-0.sail.profile
     Thickness (mod.):          6.5
@@ -248,6 +255,13 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Cloth:                 1.10sqm
     CG lever Z:            793.34mm
     Weight:                65.79g
+
+    Sail panels:
+      UV-Segment-1.sail.panel_0
+        Panel Index:                 0
+        length:                      0.00mm
+        Ballooning:                  0
+        Ballooning delta:            0.00mm
  +Profile
     Name:                      Segment-1.sail.profile
     Thickness (mod.):          6.5
@@ -284,6 +298,13 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Cloth:                 0.82sqm
     CG lever Z:            777.95mm
     Weight:                49.19g
+
+    Sail panels:
+      UV-Segment-2.sail.panel_0
+        Panel Index:                 0
+        length:                      0.00mm
+        Ballooning:                  0
+        Ballooning delta:            0.00mm
  +Profile
     Name:                      Segment-2.sail.profile
     Thickness (mod.):          6
@@ -320,6 +341,13 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Cloth:                 0.55sqm
     CG lever Z:            760.87mm
     Weight:                33.30g
+
+    Sail panels:
+      UV-Segment-3.sail.panel_0
+        Panel Index:                 0
+        length:                      0.00mm
+        Ballooning:                  0
+        Ballooning delta:            0.00mm
  +Profile
     Name:                      Segment-3.sail.profile
     Thickness (mod.):          5
@@ -356,6 +384,13 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Cloth:                 0.31sqm
     CG lever Z:            747.27mm
     Weight:                18.78g
+
+    Sail panels:
+      UV-Segment-4.sail.panel_0
+        Panel Index:                 0
+        length:                      0.00mm
+        Ballooning:                  0
+        Ballooning delta:            0.00mm
  +Profile
     Name:                      Segment-4.sail.profile
     Thickness (mod.):          3
@@ -392,6 +427,13 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Cloth:                 0.05sqm
     CG lever Z:            735.50mm
     Weight:                3.12g
+
+    Sail panels:
+      UV-Segment-5.sail.panel_0
+        Panel Index:                 0
+        length:                      0.00mm
+        Ballooning:                  0
+        Ballooning delta:            0.00mm
  +Profile
     Name:                      Segment-5.sail.profile
     Thickness (mod.):          1
@@ -459,11 +501,11 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
 ## Reference dimensions (lengths) ##
 Segment | Sail -> LE seam (mm) |  closing seam (mm)   |     ref-top (mm)     |    ref-front (mm)    |   ref-bottom (mm)    |
 -----------------------------------------------------------------------------------------------------------------------------
-   0    |                  0.0 |                  0.0 |                  0.0 |                  0.0 |                  0.0 |
-   1    |                  0.0 |                  0.0 |                  0.0 |                  0.0 |                  0.0 |
-   2    |                  0.0 |                  0.0 |                  0.0 |                  0.0 |                  0.0 |
-   3    |                  0.0 |                  0.0 |                  0.0 |                  0.0 |                  0.0 |
-   4    |                  0.0 |                  0.0 |                  0.0 |                  0.0 |                  0.0 |
-   5    |                  0.0 |                  0.0 |                  0.0 |                  0.0 |                  0.0 |
-   6    |                  0.0 |                  0.0 |                  0.0 |                  0.0 |                  0.0 |
-   7    |                  0.0 |                  0.0 |                  0.0 |                  0.0 |                  0.0 |
+   0    |                826.0 |                778.0 |                818.4 |                818.6 |                778.2 |
+   1    |                722.7 |                674.3 |                713.1 |                716.8 |                678.1 |
+   2    |                620.3 |                581.4 |                609.4 |                617.9 |                589.9 |
+   3    |                529.3 |                495.7 |                513.6 |                531.8 |                513.9 |
+   4    |                489.5 |                468.5 |                472.8 |                497.4 |                493.1 |
+   5    |                322.3 |                310.6 |                307.9 |                333.9 |                336.6 |
+   6    |                284.1 |                286.7 |                277.2 |                293.8 |                303.2 |
+   7    |                 80.0 |                 82.0 |                  0.0 |                  0.0 |                  0.0 |
