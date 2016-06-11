@@ -8,6 +8,8 @@ For more details and pics take a look at the ventus website: [Ventus-S](http://w
 
 ## Getting Started
 
+View the [Design specs](https://github.com/wingworks/Ventus-S/blob/master/Ventus_S.kite)
+
 You can find the release 1.0 of the Ventus as Release Ventus-S_v1.0.zip in the [release section](https://github.com/wingworks/Ventus-S/releases).
 
 The release contains the following files:
