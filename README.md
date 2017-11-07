@@ -3,7 +3,7 @@
 The single strut tube kite Ventus in size 8sqm is a modern freeride kite. Easy to relaunch, suitable for beginners and experts.  
 For more details and pics take a look at the ventus website: [Ventus-8](http://www.wingworks.de/kites/ventus/)
 
-[Kite 3D preview](https://github.com/wingworks/Ventus-8/blob/master/quad_view.png)  
+![Kite 3D preview](https://github.com/wingworks/Ventus-8/blob/master/quad_view.png)  
 
 ![Kite 3D preview](https://github.com/wingworks/Ventus-8/blob/master/Ventus-8_perspective.png)  
 
