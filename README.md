@@ -15,7 +15,7 @@ For more details and pics take a look at the ventus website: [Ventus-8](http://w
 
 ## Getting Started
 
-View the [Design specs](https://github.com/wingworks/Ventus-8/blob/master/Ventus_8.kite)
+View the [Design specs](https://github.com/wingworks/Ventus-8/blob/master/Ventus-8.kite)
 
 You can find the release 2.0 of the Ventus as Release Ventus-2_v2.0.zip in the [release section](https://github.com/wingworks/Ventus-8/releases).
 
